@@ -6,8 +6,15 @@ cc
 cc
 fds
 f
+mtf fds
 edited by maggot
 edited by maggot 2nd 
 edited by maggot 3rd
 edited by maggot 4th
 mthfffffff
+
+this is confliction test
+
+mth
+ origin/dev
+>>>>>>> dee87ca9de07b78f44374a1d01284ccc4b6f0b40
