@@ -18,3 +18,4 @@ this is confliction test
 mth
  origin/dev
 >>>>>>> dee87ca9de07b78f44374a1d01284ccc4b6f0b40
+edited y east
